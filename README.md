@@ -2,5 +2,5 @@
 
 
 
-ESP32 RFID Shopping Cart – Project Presentation is inside docs 
+ESP32 RFID Shopping Cart – Project Presentation PPTs are inside docs 
 
